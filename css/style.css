@@ -305,7 +305,9 @@ header {
 }
 
 .list-title {
+  font-family: "Noto Serif JP";
   font-size: 1.8rem;
+  font-weight: bold;
   line-height: calc(50/18);
   padding-bottom: 15px;
   letter-spacing: 0.12em;
